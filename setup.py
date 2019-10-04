@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='zen-of-koli',
-    version='0.0.2',
+    version='0.0.8',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='Ultimite guide to life, python and all.',
