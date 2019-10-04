@@ -5,6 +5,12 @@ Ultimite guide to life, python and all.
 If you feel you don't know how to proceed and nothing make sense, take your time...
 Read this Zen, and, finally, you will find the answer.
 
+# Install
+
+```bash
+pip3 install zen-of-koli
+```
+
 # Usage
 
 ```bash
